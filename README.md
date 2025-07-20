@@ -1,3 +1,3 @@
 # app-ads-site
-app-ads.txt hosting
+app-ads.txt 
 pub-9504169222632020
